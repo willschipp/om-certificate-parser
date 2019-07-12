@@ -1,0 +1,25 @@
++----------------------+---------+--------+----------------------+----------------------+------------------------------------------------------------------+
+|          ID          | ISSUER  | ACTIVE |      CREATED ON      |      EXPIRES ON      |                          CERTICATE PEM                           |
++----------------------+---------+--------+----------------------+----------------------+------------------------------------------------------------------+
+| 0d077419f94145951d48 | Pivotal | true   | 2019-07-11T16:21:59Z | 2023-07-11T16:21:59Z | -----BEGIN CERTIFICATE-----                                      |
+|                      |         |        |                      |                      | MIIDUTCCAjmgAwIBAgIVAJ+OIq6su4pyrfsXo9um0RwUAVAbMA0GCSqGSIb3DQEB |
+|                      |         |        |                      |                      | CwUAMB8xCzAJBgNVBAYTAlVTMRAwDgYDVQQKDAdQaXZvdGFsMB4XDTE5MDcxMDE2 |
+|                      |         |        |                      |                      | MjE1OVoXDTIzMDcxMTE2MjE1OVowHzELMAkGA1UEBhMCVVMxEDAOBgNVBAoMB1Bp |
+|                      |         |        |                      |                      | dm90YWwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEGgFdBPDCWxoG |
+|                      |         |        |                      |                      | cAnIDTo9QB5KwJf0oH/3JLGgjGktP6lEJr7Gj5rFxD5qc+PyC19gjOR56W/SVj5Y |
+|                      |         |        |                      |                      | u6YoYDMx8maF6dOPOGIBUCBhC9AfITPBiNommHXHpQ2RRPCV5wwmvft/eeEBs2bG |
+|                      |         |        |                      |                      | Vwi4Khes7z5ECXGMaGzpLZThY2xq8kfygEWkvL8UiZy43pqPRuywQGmrndbJhUyU |
+|                      |         |        |                      |                      | 3mAoB3qYSO2twC+Hs/6Zy8z1f+iKkD7smYGuE/VAVhT+IzxByTRVo5hH+Q11gDWN |
+|                      |         |        |                      |                      | PbbK/xDIK93nLBsmgNbRzdt2ZlQ1wigcTUr3zon+OoEoZKOv8xZNQVdTtTONvLNi |
+|                      |         |        |                      |                      | PR099HxzAgMBAAGjgYMwgYAwHQYDVR0OBBYEFKbdglhTPNjZ8DthwkjIBhi093jw |
+|                      |         |        |                      |                      | MB8GA1UdIwQYMBaAFKbdglhTPNjZ8DthwkjIBhi093jwMB0GA1UdJQQWMBQGCCsG |
+|                      |         |        |                      |                      | AQUFBwMCBggrBgEFBQcDATAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIB |
+|                      |         |        |                      |                      | BjANBgkqhkiG9w0BAQsFAAOCAQEArY/nEDaV58c1dL09sss5la81z6wgMoQwJ1Us |
+|                      |         |        |                      |                      | K0law3oR8RhUVGaQPPwlR5AQzqSjSFS93JjRojPLombXxMJDwhMzpzMbqX1S12Jv |
+|                      |         |        |                      |                      | EdUaetP2kGwvoIU7H2IGuT2IAGlSGmcM8bTKzknYTzG2T1sHOrpMYQyX+NxZadNF |
+|                      |         |        |                      |                      | X1naobEA6poLIZeklu3dl12uRctzCl8dypQN5FkJ2swyYDApy14FadmIhSgkvFW6 |
+|                      |         |        |                      |                      | hRcopcgkmbXDhTlMIL9pYiG9M97wTeIPDR0OS7AgRdH5Axy9d+v+JlPMtEoWg34b |
+|                      |         |        |                      |                      | RT1rXIelpMthPYrC/ypjtIhEoL+OJS5SSAFUa3CfNRXtlM5Pmw==             |
+|                      |         |        |                      |                      | -----END CERTIFICATE-----                                        |
+|                      |         |        |                      |                      |                                                                  |
++----------------------+---------+--------+----------------------+----------------------+------------------------------------------------------------------+

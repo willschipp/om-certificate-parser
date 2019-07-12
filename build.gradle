@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.1.6.RELEASE'
+}
+
+apply plugin: 'java'
+apply plugin: 'io.spring.dependency-management'
+
+group 'io.platformconsulting'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter'
+    compile 'org.yaml:snakeyaml:1.24'
+    testCompile 'org.springframework.boot:spring-boot-starter-test'
+    testCompile 'org.powermock:powermock-module-junit4:1.6.4'
+    testCompile 'org.powermock:powermock-api-mockito:1.6.4'
+}
